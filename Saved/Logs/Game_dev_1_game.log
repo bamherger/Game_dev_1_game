@@ -1660,3 +1660,122 @@ Minimum required: 527.27
 [2023.10.05-17.05.33:191][721]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 2.83% of total time (compiled    3 times, average 0.59 sec, max 0.74 sec, min 0.39 sec)
 [2023.10.05-17.05.33:191][721]LogShaderCompilers: Display: ================================================
 [2023.10.05-17.05.43:321][430]LogViewport: Scene viewport resized to 1014x580, mode Windowed.
+[2023.10.05-17.13.48:644][ 98]LogViewport: Scene viewport resized to 1014x583, mode Windowed.
+[2023.10.05-17.13.48:704][ 98]LogViewport: Scene viewport resized to 1014x611, mode Windowed.
+[2023.10.05-17.13.48:807][ 98]LogViewport: Scene viewport resized to 1014x641, mode Windowed.
+[2023.10.05-17.13.48:879][ 98]LogViewport: Scene viewport resized to 1014x681, mode Windowed.
+[2023.10.05-17.13.48:946][ 98]LogViewport: Scene viewport resized to 1014x695, mode Windowed.
+[2023.10.05-17.13.49:279][ 98]LogViewport: Scene viewport resized to 1014x694, mode Windowed.
+[2023.10.05-17.13.49:306][ 98]LogViewport: Scene viewport resized to 1014x686, mode Windowed.
+[2023.10.05-17.13.49:328][ 98]LogViewport: Scene viewport resized to 1014x661, mode Windowed.
+[2023.10.05-17.13.49:352][ 98]LogViewport: Scene viewport resized to 1014x631, mode Windowed.
+[2023.10.05-17.13.49:370][ 98]LogViewport: Scene viewport resized to 1014x618, mode Windowed.
+[2023.10.05-17.13.49:394][ 98]LogViewport: Scene viewport resized to 1014x614, mode Windowed.
+[2023.10.05-17.13.49:418][ 98]LogViewport: Scene viewport resized to 1014x613, mode Windowed.
+[2023.10.05-17.13.55:994][668]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2023.10.05-17.14.12:018][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.14.12:018][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.14.12:020][365]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/dev.dev:PersistentLevel.StaticMeshActor_0
+[2023.10.05-17.14.12:020][365]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/dev.dev:PersistentLevel.StaticMeshActor_0
+[2023.10.05-17.14.54:615][306]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.14.54:635][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-17.14.54:635][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-17.14.55:152][306]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2023.10.05-17.14.59:996][710]LogStaticMesh: Display: Building static mesh Cube...
+[2023.10.05-17.14.59:998][710]LogStaticMesh: Built static mesh [0.00s] /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.15.06:860][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-17.15.06:898][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cube" FILE="../../../Engine/Content/BasicShapes/Cube.uasset" SILENT=true
+[2023.10.05-17.15.06:901][ 61]LogSavePackage: Moving output files for package: /Engine/BasicShapes/Cube
+[2023.10.05-17.15.06:902][ 61]LogSavePackage: Moving '../../../../../../Users/Givenisa000/Downloads/Game_dev_1_game/Saved/Cube37A02BED4CE11F4673D34F8DBF03598E.tmp' to '../../../Engine/Content/BasicShapes/Cube.uasset'
+[2023.10.05-17.15.06:908][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 556 ms)
+[2023.10.05-17.15.06:909][ 61]AssetCheck: New page: Asset Save: Cube
+[2023.10.05-17.15.06:909][ 61]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.15.18:015][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-17.15.18:036][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cube" FILE="../../../Engine/Content/BasicShapes/Cube.uasset" SILENT=true
+[2023.10.05-17.15.18:038][900]LogSavePackage: Moving output files for package: /Engine/BasicShapes/Cube
+[2023.10.05-17.15.18:038][900]LogSavePackage: Moving '../../../../../../Users/Givenisa000/Downloads/Game_dev_1_game/Saved/Cube6A9FCCC8484F01FC01CDE988B48FE8B1.tmp' to '../../../Engine/Content/BasicShapes/Cube.uasset'
+[2023.10.05-17.15.18:041][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 581 ms)
+[2023.10.05-17.15.18:042][900]AssetCheck: New page: Asset Save: Cube
+[2023.10.05-17.15.18:042][900]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.15.24:385][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.05-17.15.26:533][240]LogSlate: Window 'Save Content' being destroyed
+[2023.10.05-17.15.26:544][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-17.15.26:571][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dev" FILE="../../../../../../Users/Givenisa000/Downloads/Game_dev_1_game/Content/dev.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.05-17.15.26:585][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.10.05-17.15.26:631][240]LogSavePackage: Moving output files for package: /Game/dev
+[2023.10.05-17.15.26:632][240]LogSavePackage: Moving '../../../../../../Users/Givenisa000/Downloads/Game_dev_1_game/Saved/devA48512D742C809853DBC0FAB609BA374.tmp' to '../../../../../../Users/Givenisa000/Downloads/Game_dev_1_game/Content/dev.umap'
+[2023.10.05-17.15.26:635][240]LogFileHelpers: Saving map 'dev' took 0.065
+[2023.10.05-17.15.26:642][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 679 ms)
+[2023.10.05-17.15.26:644][240]AssetCheck: New page: Asset Save: dev
+[2023.10.05-17.15.26:644][240]LogContentValidation: Display: Validating /Script/Engine.World /Game/dev.dev
+[2023.10.05-17.15.28:523][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-17.15.28:544][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cube" FILE="../../../Engine/Content/BasicShapes/Cube.uasset" SILENT=true
+[2023.10.05-17.15.28:546][332]LogSavePackage: Moving output files for package: /Engine/BasicShapes/Cube
+[2023.10.05-17.15.28:546][332]LogSavePackage: Moving '../../../../../../Users/Givenisa000/Downloads/Game_dev_1_game/Saved/Cube4C3CCA30428FCFBC891704BE072D7928.tmp' to '../../../Engine/Content/BasicShapes/Cube.uasset'
+[2023.10.05-17.15.28:549][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 705 ms)
+[2023.10.05-17.15.28:550][332]AssetCheck: New page: Asset Save: Cube
+[2023.10.05-17.15.28:550][332]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.15.36:777][  5]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.15.36:777][  5]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.05-17.15.36:778][  5]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/dev.dev:PersistentLevel.StaticMeshActor_1
+[2023.10.05-17.15.36:778][  5]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/dev.dev:PersistentLevel.StaticMeshActor_1
+[2023.10.05-17.16.42:411][ 97]LogEditorViewport: Clicking Background
+[2023.10.05-17.18.52:446][ 72]Cmd: DELETE
+[2023.10.05-17.18.52:446][ 72]Cmd: ACTOR DELETE
+[2023.10.05-17.18.52:448][ 72]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.10.05-17.18.52:455][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.05-17.18.52:458][ 72]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.10.05-17.18.59:028][699]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.05-17.18.59:028][699]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.05-17.18.59:030][699]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/dev.dev:PersistentLevel.DirectionalLight_1
+[2023.10.05-17.18.59:030][699]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/dev.dev:PersistentLevel.DirectionalLight_1
+[2023.10.05-17.19.13:748][779]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-17.20.44:836][740]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-17.20.54:271][497]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-17.22.01:699][539]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-17.22.08:885][116]LogEditorViewport: Clicking Background
+[2023.10.05-17.22.10:219][210]Cmd: DELETE
+[2023.10.05-17.22.10:220][210]Cmd: ACTOR DELETE
+[2023.10.05-17.22.10:222][210]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.10.05-17.22.10:228][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.05-17.22.10:231][210]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.10.05-17.22.47:117][161]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-17.22.55:284][811]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: ================================================
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Total job queries 176, among them cache hits 23 (13.07%)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Tracking 153 distinct input hashes that result in 88 distinct outputs (57.52%)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: RAM used: 290.95 KiB of 819.20 MiB budget. Usage: 0.03%
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Shaders Compiled: 153
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Jobs assigned 153, completed 153 (100%)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Average time worker was idle: 16.22 s
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Time job spent in pending queue: average 3.54 s, longest 7.78 s
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 0.97 s
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Job life time (pending + execution): average 4.04 s, max 8.29
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Shader code size: average 6.418 KiB, min 160 B, max 17.27 KiB
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.53 s
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Jobs were issued in 153 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Average processing rate: 13.27 jobs/sec
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Total thread time: 62.654 s
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Total thread preprocess time: 4.395 s
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Percentage time preprocessing: 7.02%
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Effective parallelization: 5.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.76 sec, max 0.87 sec, min 0.59 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 0.59 sec, max 0.74 sec, min 0.39 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 0.58 sec, max 0.71 sec, min 0.38 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.57 sec, max 0.66 sec, min 0.44 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.57 sec, max 0.69 sec, min 0.44 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.08% of total time (compiled    6 times, average 0.53 sec, max 0.61 sec, min 0.35 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.31% of total time (compiled    6 times, average 0.45 sec, max 0.51 sec, min 0.25 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.64% of total time (compiled    3 times, average 0.76 sec, max 0.87 sec, min 0.59 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.08% of total time (compiled    4 times, average 0.48 sec, max 0.51 sec, min 0.45 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.89% of total time (compiled    4 times, average 0.45 sec, max 0.57 sec, min 0.36 sec)
+[2023.10.05-17.23.10:571][ 98]LogShaderCompilers: Display: ================================================
+[2023.10.05-17.23.46:427][127]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.05-17.23.46:427][127]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.05-17.23.46:429][127]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/dev.dev:PersistentLevel.DirectionalLight_2
+[2023.10.05-17.23.46:429][127]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/dev.dev:PersistentLevel.DirectionalLight_2
+[2023.10.05-17.23.57:722][915]LogViewport: Scene viewport resized to 1014x613, mode Windowed.
