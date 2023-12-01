@@ -5,10 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/Cube1.uasset",
+				"C:/Users/jensegab001/Downloads/Game_dev_1_Game/Game_dev_1_game/Content/Hub.umap",
 				"C:/Users/Givenisa000/Downloads/Game_dev_1_game/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Givenisa000/Downloads/Game_dev_1_game/Content/ThirdPerson/Maps/_GENERATED/beaudcol000/dev.umap",
-				"C:/Users/Givenisa000/Downloads/Game_dev_1_game/Content/dev.umap",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/Cube.uasset"
+				"C:/Users/Givenisa000/Downloads/Game_dev_1_game/Content/dev.umap"
 			]
 		}
 	]
